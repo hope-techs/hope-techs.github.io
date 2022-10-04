@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['remove_0',['Remove',['../class_bamdad_1_1_product_1_1_b_l_l_1_1_functions_1_1_data_field_b_l_l.html#ab5fc6765507356c0cb3ea8d77c40d2e1',1,'Bamdad.Product.BLL.Functions.DataFieldBLL.Remove()'],['../class_bamdad_1_1_product_1_1_b_l_l_1_1_functions_1_1_field_b_l_l.html#a4930adfb9a78f942a0adb6dfa42aedf7',1,'Bamdad.Product.BLL.Functions.FieldBLL.Remove()'],['../class_bamdad_1_1_official_l_m_s_1_1_web_app_1_1_areas_1_1_adminis_1_1_controllers_1_1_field_manager_controller.html#a234ceec7fe1c35f380cac483069c0c6f',1,'Bamdad.OfficialLMS.WebApp.Areas.Adminis.Controllers.FieldManagerController.Remove()'],['../class_bamdad_1_1_official_l_m_s_1_1_web_app_1_1_areas_1_1_public_1_1_controllers_1_1_form_manager_controller.html#afaec93f6e65e96c4fb49f78bfa2328b3',1,'Bamdad.OfficialLMS.WebApp.Areas.Public.Controllers.FormManagerController.Remove()']]]
+];
